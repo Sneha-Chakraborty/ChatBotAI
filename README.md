@@ -1,8 +1,6 @@
 # ChatBotAI
 It is a TypeScript/Node.js chatbot + voicebot with a React UI, REST/WebSocket services. 
 
-# DTS Virtual Agent (Chatbot + Voicebot) — 1‑Page README
-
 **Goal:** Production‑style personal project demonstrating **chatbots/voicebots**, **REST/WebSockets**, **SSO (OAuth2/OIDC, JWT)**, **Postman automation**, **CI/CD**, **dialogue management**, and **NLU adapters** (Dialogflow, Rasa, Microsoft Bot Framework; Cognigy/Watson/Lex stubs). Fully runnable via Docker Compose.
 
 ---
