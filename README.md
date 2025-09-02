@@ -138,8 +138,8 @@ MIT (personal portfolio). Replace or remove third‑party trademarks when publis
 
 ## Localize & Run
 
-`git clone <YOUR_GIT_URL>` ->
-`cd <YOUR_PROJECT_NAME>` ->
-`npm install` ->
+`git clone <THIS_GIT_URL>` ~>
+`cd <YOUR_PROJECT_NAME>` ~>
+`npm install` ~>
 `npm run dev`
 
